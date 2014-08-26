@@ -1,7 +1,7 @@
 Learn-Matlab-the-hard-way
 =========================
 
-Little trick on how to learn Matlab
+Little tricks on how to learn Matlab
 
 ## My Purpose
 Many people told me "Not to reinvent the wheel" when I first learn to code.
